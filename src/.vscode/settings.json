@@ -1,0 +1,15 @@
+{
+    "Lua.diagnostics.globals": [
+        "game",
+        "wait",
+        "script",
+        "warn",
+        "Instance",
+        "CFrame",
+        "workspace",
+        "Vector3",
+        "Color3",
+        "BrickColor",
+        "Enum"
+    ]
+}
