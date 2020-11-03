@@ -10,6 +10,26 @@
         "Vector3",
         "Color3",
         "BrickColor",
-        "Enum"
+        "TweenInfo",
+        "Enum",
+        "tick",
+        "NumberSequence",
+        "NumberSequenceKeypoint",
+        "Ray",
+        "UDim2",
+        "getfenv",
+        "Vector2",
+        "typeof",
+        "Random",
+        "continue",
+        "spawn",
+        "CFrame",
+        "CFrame",
+        "BrickColor",
+        "Color3",
+        "wait"
+    ],
+    "Lua.diagnostics.disable": [
+        "trailing-space"
     ]
 }
